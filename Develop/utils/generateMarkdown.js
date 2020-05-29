@@ -41,5 +41,6 @@ if you have any questions, contact my email.
 
 module.exports = generateMarkdown;
 
-//pull data from questions and restructure 
+
 // include a badge specific to the repository
+// couldnt figure out how to do this part. 
